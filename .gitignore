@@ -1,1 +1,3 @@
 /diy-repair-hub.txt
+node_modules/
+dotenv
